@@ -13,7 +13,7 @@ function blokimenu(){
     var glowna = document.getElementById("0");
     glowna.innerHTML += "<a href='https://bartekbuczekbazadanych.tk/'>Strona główna</a>"
     var aktualnosci = document.getElementById("1");
-    aktualnosci.innerHTML += "<a href='https://bartekbuczekbazadanych.tk/aktualnosci.html'>Aktualności</a>"
+    aktualnosci.innerHTML += "<a href='https://bartekbuczekbazadanych.tk/'>Aktualności</a>"
     var mojedane = document.getElementById("3");
     mojedane.innerHTML += "<a href='https://bartekbuczekbazadanych.tk/'>Moja baza danych</a>"
     var profil = document.getElementById("2");
